@@ -1,0 +1,11 @@
+<h1 id = "header">Javascript Skills Test</h1>
+<div id = "compartment">
+<div id=questions></div>
+<form id="the-list">
+</form>
+</div>
+<br>
+<button  id = "score" onclick="score()">Get Results</button>
+</div>
+
+<div id = "finalResult"></div>
